@@ -40,12 +40,10 @@ This project covers:
 
 ```bash
 us-election-twitter-analysis/
-├── dashboards/                → Power BI `.pbix` file
 ├── notebooks/                 → Jupyter notebook for preprocessing
-├── data/                      → (optional) CSV or JSON files
 ├── screenshots/               → dashboard preview images
 └── README.md                  → this file
-
+```
 
 ## 📥 Download the Dashboard
 
