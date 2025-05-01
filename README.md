@@ -36,6 +36,27 @@ This project covers:
 
 ---
 
+## 🧠 Key Findings
+
+1. **Prevalent Topics**  
+   Using LDA topic modeling, the dataset revealed dominant themes such as **Trump won!**, **Republican discourse - America, God & Musk**, **Democratic discourse - disappointment**, **Race, identity & election**, **Political parties & ideology**, and **Emotions & protest**.
+
+2. **Temporal Dynamics**  
+   Tweet volume significantly increased from **November 6th, 18:00** onwards, aligning with the announcement of key election outcomes. Certain topics (e.g., “Emotions & protest”, “Democratic discourse - disappointment”) spiked within specific time windows, reflecting news-driven attention.
+
+3. **Sentiment Dynamics Across Topics**  
+   63% of tweets in the topic **Republican discourse – America, God & Musk** are classified as positive, while 42% of tweets in **Democratic discourse – disappointment** are negative — the highest among all topics.
+
+4. **User-level Topic Affiliation**  
+   Highly active users (100+ tweets) were heavily focused on the **Emotions & Protest** topic, with a noticeable spike on November 7th at 12:00.
+
+5. **Dashboard Interactivity**  
+   The Power BI dashboard supports:
+   - Filtering by **topic**, **user**, **time**, and **sentiment**
+   - Visualization of **topic probability** and **tweet count dynamics**
+   - Exploratory analysis across ~340K tweets
+
+
 ## 📂 Project Structure
 
 ```bash
